@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tiket-app</string>
+    <string name="select_destination">Pilih Tujuan</string>
+    <string-array name="destination_array">
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Bali</item>
+        <item>Yogyakarta</item>
+    </string-array>
+</resources>
